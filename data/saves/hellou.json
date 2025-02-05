@@ -1,0 +1,23 @@
+{
+    "character": {
+        "name": "test",
+        "species": "ha",
+        "gender": "sj"
+    },
+    "inventory": {
+        "snack_name": null,
+        "weapon_name": null,
+        "tool_name": null,
+        "content": [
+            "cookie",
+            "weaponry",
+            "key"
+        ]
+    },
+    "progress": {
+        "level": "level1",
+        "scene": "scene6"
+    },
+    "lives": 3,
+    "difficulty": "medium"
+}

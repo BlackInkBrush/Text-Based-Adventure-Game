@@ -1,0 +1,22 @@
+{
+    "character": {
+        "name": "kras",
+        "species": "l",
+        "gender": "male"
+    },
+    "inventory": {
+        "snack_name": "sand",
+        "weapon_name": "ham",
+        "tool_name": "dsl",
+        "content": [
+            "sand",
+            "ham"
+        ]
+    },
+    "progress": {
+        "level": "level1",
+        "scene": "scene8"
+    },
+    "lives": 3,
+    "difficulty": "medium"
+}

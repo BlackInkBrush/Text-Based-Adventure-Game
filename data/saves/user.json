@@ -1,0 +1,23 @@
+{
+    "character": {
+        "name": "ramin",
+        "species": "man",
+        "gender": "sl"
+    },
+    "inventory": {
+        "snack_name": "",
+        "weapon_name": "cooler",
+        "tool_name": "hammer",
+        "content": [
+            "cooler",
+            "hammer",
+            "key"
+        ]
+    },
+    "progress": {
+        "level": "level1",
+        "scene": "scene6"
+    },
+    "lives": 3,
+    "difficulty": "medium"
+}

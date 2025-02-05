@@ -1,0 +1,22 @@
+{
+    "character": {
+        "name": "hf#",
+        "species": "sdf",
+        "gender": "sdf"
+    },
+    "inventory": {
+        "snack_name": "sandwich",
+        "weapon_name": "ak4",
+        "tool_name": "d",
+        "content": [
+            "sandwich",
+            "ak4"
+        ]
+    },
+    "progress": {
+        "level": "level1",
+        "scene": "scene10"
+    },
+    "lives": 2,
+    "difficulty": "medium"
+}

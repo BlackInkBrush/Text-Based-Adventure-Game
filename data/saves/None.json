@@ -1,0 +1,23 @@
+{
+    "character": {
+        "name": "test",
+        "species": "hallo",
+        "gender": "male"
+    },
+    "inventory": {
+        "snack_name": null,
+        "weapon_name": null,
+        "tool_name": null,
+        "content": [
+            "mdsf",
+            "sddsf",
+            "sddsf"
+        ]
+    },
+    "progress": {
+        "level": "level1",
+        "scene": "scene5"
+    },
+    "lives": 3,
+    "difficulty": "medium"
+}

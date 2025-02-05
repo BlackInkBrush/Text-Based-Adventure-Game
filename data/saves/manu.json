@@ -1,0 +1,23 @@
+{
+    "character": {
+        "name": "sdfds",
+        "species": "dsfsdf",
+        "gender": "sdff"
+    },
+    "inventory": {
+        "snack_name": "sdfsd",
+        "weapon_name": "sdfdsaf",
+        "tool_name": "sdfsad",
+        "content": [
+            "sdfdsaf",
+            "sdfsad",
+            "key"
+        ]
+    },
+    "progress": {
+        "level": "level1",
+        "scene": "scene7"
+    },
+    "lives": 3,
+    "difficulty": "medium"
+}

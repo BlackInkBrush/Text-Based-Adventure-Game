@@ -1,0 +1,24 @@
+{
+    "character": {
+        "name": "john",
+        "species": "an",
+        "gender": "malew"
+    },
+    "inventory": {
+        "snack_name": "cookie",
+        "weapon_name": "machete",
+        "tool_name": "rocket",
+        "content": [
+            "cookie",
+            "machete",
+            "rocket",
+            "amulet"
+        ]
+    },
+    "progress": {
+        "level": "level2",
+        "scene": "scene6"
+    },
+    "lives": 4,
+    "difficulty": "medium"
+}

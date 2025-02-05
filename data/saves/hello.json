@@ -1,0 +1,23 @@
+{
+    "character": {
+        "name": "fdsf",
+        "species": "dsf",
+        "gender": "dsfrgre"
+    },
+    "inventory": {
+        "snack_name": "gerg",
+        "weapon_name": "gre",
+        "tool_name": "gre",
+        "content": [
+            "gre",
+            "gre",
+            "key"
+        ]
+    },
+    "progress": {
+        "level": "level1",
+        "scene": "scene6"
+    },
+    "lives": 3,
+    "difficulty": "medium"
+}
